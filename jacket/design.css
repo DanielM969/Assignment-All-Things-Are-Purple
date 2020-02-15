@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    src: url(../jacket/fonts/Merriweather-BlackItalic.ttf);
+    font-family: Merri;
+}
+@font-face{
+    src: url(../jacket/fonts/Merriweather-Italic.ttf);
+    font-family: Merri1;
+}
+h1{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: normal;
+    background: linear-gradient(to bottom, #8333E9,#FF7FAE);
+    font-family: Merri;
+}
+body{
+    background-color: aliceblue;
+}
+#logo{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+}
+#logo:hover{
+    height: 150%;
+    width: 90%;
+}
+#jervy{
+    height: 5in;
+    width: 5.5in;
+    text-align: center;
+    MARGIN-top: 50px;
+    border-radius: 10%;
+    margin-left: 50px;
+    position: absolute;
+}
+#middle-container{
+    padding-top: 20px;
+    font-family: Merriweather-i;
+    margin-top: 20px;
+    margin-left:700px;
+    position: relative;
+}
+#name{
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+#age{
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: 100;
+}
+#info{
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-weight: 100;
+}
+#quote{
+    padding-bottom: 10px;
+    font-size: 30px;
+
+    font-style: italic;
+}
+#author{
+    margin-left: 3.8in;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+.footer{
+    position: relative;
+    margin-top: 3in;
+    text-align: center;
+    padding-bottom: 3%;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding-top: 50px;
+    background: linear-gradient(to top,purple,rgb(197,103,197));
+}
+.foot{
+    font-size: 30px;
+}
+#copy{
+    font-size: larger;
+    padding-top: 50px;
+}
+hr{
+    border-color: black;
+}
+#hr1{
+    margin-top: -50px;
+}

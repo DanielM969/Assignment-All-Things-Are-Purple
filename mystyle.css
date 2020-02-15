@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    text-align: center;
+     background-color: aliceblue;
+}
+header{
+    text-align: center;
+   padding-bottom: 30px;
+   background: linear-gradient(to bottom,#8333E9,#FF7FAE);
+
+}
+.Top-Container{
+    background: linear-gradient(to bottom,#8333E9,#FF7FAE);
+    font-family: Merriweather;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 80px;
+    
+}
+.title{
+    font-size: 35px;
+    margin-right: 45px;
+    color: white;
+}
+#logo{
+    width: 2in;
+    height: 2in;
+}
+.middle-container{
+    text-align: center;
+}
+#img-bag{
+    margin-top: 30px;
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+#img-filecase{
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    
+}
+#img-payong{
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+#img-jacket{
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+#img-lace{
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+.footer{
+    font-size: 30px;
+    background: linear-gradient(to top, purple,rgb(197, 103, 197));
+    margin-top: 30px;
+    padding-bottom: 10px;
+}

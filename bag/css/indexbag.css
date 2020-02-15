@@ -1,0 +1,100 @@
+@font-face{
+    font-family: Merriweather;
+    src: url(../fonts/Merriweather-BlackItalic.ttf);
+}
+@font-face{
+    font-family: Merriweather-i;
+    src: url(../fonts/Merriweather-Italic.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background: linear-gradient(to bottom,#8333E9,#FF7FAE);
+    font-family: Merriweather;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 80px;
+    
+}
+body{
+     background-color: aliceblue;
+}
+#img{
+    height: 5in;
+    width: 5.5in;
+    text-align: center;
+    MARGIN-top: 50px;
+    border-radius: 10%;
+    margin-left: 50px;
+    position: absolute;
+
+}
+#middle{
+    padding-top: 20px;
+    font-family: Merriweather-i;
+    margin-top: 20px;
+    margin-left:700px;
+    position: relative;
+
+}
+.foot{
+    font-size: 30px;
+}
+footer{
+    position: relative;
+    margin-top: 3in;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 50px;
+    letter-spacing: 1px;
+    background: linear-gradient(to top, purple,rgb(197, 103, 197));
+}
+#name{
+    padding-bottom: 20px;
+    padding-top: 50PX;
+    font-size: 50px;
+}
+#age{
+    
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+#school{
+    font-size: 30px;
+    font-weight: normal;
+}
+#qots{
+    padding-top: 100px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 30px; 
+    margin-left: 530px;
+}
+
+#copy{
+    font-size: larger;
+    padding-top: 50px;
+}
+#hr1{
+    margin-top: -50px;
+    border-color: black;
+}
+hr{
+    border-color: black;
+}
+#logo:hover
+{
+    height: 23%;
+    width: 13%;
+}
+#logo{
+    left: 5%;
+    top: 8%;
+    position: absolute;
+}
